@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\dynamic web project for tomcat\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3467120661.index
+2122591575.index
+4234476036.index
+1949919271.index
+343452977.index
+388824812.index
